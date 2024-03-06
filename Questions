@@ -1,0 +1,34 @@
+1)Total Sales Analysis:
+  1)What is the total number of sales made each year?
+  2)What is the total spend, average spend, total COGS, average COGS, total profit, and average profit for each year?
+
+2)Monthly Sales Analysis:
+  1)How does the sales count vary for each month?
+  2)What are the total spend, average spend, total COGS, average COGS, total profit, and average profit for each month?
+
+3)Sales Analysis by Day of the Week:
+  1)Which day of the week records the highest sales count?
+  2)How do sales differ across different days of the week in terms of total spend, average spend, total COGS, average COGS, total profit, and average profit?
+
+4)Sales Analysis by Time of Day:
+  1)What is the distribution of sales count across different times of the day (morning, afternoon, evening)?
+  2)How do sales metrics vary based on time of day, including total spend, average spend, total COGS, average COGS, total profit, and average profit?
+
+5)Branch and City Sales Comparison:
+  1)Which branch and city have the highest sales count?
+  2)How do sales metrics (total spend, average spend, total COGS, average COGS, total profit, average profit, and average rating) compare between different branches and cities?
+
+6)Product Line Analysis:
+  1)What are the top-selling product lines based on sales count?
+  2)How do sales metrics differ across various product lines, including total spend, average spend, total COGS, average COGS, total profit, average profit, and average rating?
+7)Gender-based Sales Analysis:
+  1)What is the sales count breakdown by gender?
+  2)How do sales metrics (total spend, average spend, total COGS, average COGS, total profit, average profit, and average rating) differ between male and female customers?
+
+8)Gender-specific Product Line Analysis
+  1)For each gender, what are the top-selling product lines?
+  2)How do sales metrics vary for different product lines among male and female customers, including sales count, total spend, average spend, total COGS, average COGS, total profit, average profit, and average rating?
+
+9)Payment Method Analysis:
+  1)What is the distribution of sales count based on payment methods?
+  2)How do sales metrics (total spend, average spend, total COGS, average COGS, total profit, average profit, and average rating) compare between different payment methods?
